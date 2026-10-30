@@ -1,0 +1,31 @@
+
+[
+    {
+        "question": "What courses are available?",
+        "answer": "Our college offers Computer Science, Information Technology, Mechanical Engineering and Electronics Engineering."
+    },
+    {
+        "question": "How can I apply for admission?",
+        "answer": "You can apply for admission through our official college website."
+    },
+    {
+        "question": "What are the college fees?",
+        "answer": "The fee structure depends on the selected course. Please contact the admission office for details."
+    },
+    {
+        "question": "Is hostel accommodation available?",
+        "answer": "Yes, hostel accommodation is available for students."
+    },
+    {
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9 AM to 5 PM on working days."
+    },
+    {
+        "question": "How can I contact the college?",
+        "answer": "You can contact the college through its official website or administration office."
+    },
+    {
+        "question": "Are scholarships available?",
+        "answer": "Scholarships may be notavailable ,for more in."
+    }
+]
